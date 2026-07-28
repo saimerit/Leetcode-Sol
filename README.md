@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimerit/Leetcode-Sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimerit/Leetcode-Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saimerit/Leetcode-Sol/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimerit/Leetcode-Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
