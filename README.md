@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/saimerit/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
