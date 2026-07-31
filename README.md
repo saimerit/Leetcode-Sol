@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimerit/Leetcode-Sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -42,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0133-clone-graph](https://github.com/saimerit/Leetcode-Sol/tree/main/0133-clone-graph/) | Medium |
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
