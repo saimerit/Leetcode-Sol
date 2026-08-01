@@ -91,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/saimerit/Leetcode-Sol/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0210-course-schedule-ii/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/saimerit/Leetcode-Sol/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
