@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/saimerit/Leetcode-Sol/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimerit/Leetcode-Sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Divide and Conquer
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
