@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/saimerit/Leetcode-Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/saimerit/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/saimerit/Leetcode-Sol/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -148,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
