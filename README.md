@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/saimerit/Leetcode-Sol/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/saimerit/Leetcode-Sol/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
+| [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
