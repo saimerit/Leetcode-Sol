@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimerit/Leetcode-Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/saimerit/Leetcode-Sol/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/saimerit/Leetcode-Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saimerit/Leetcode-Sol/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimerit/Leetcode-Sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/saimerit/Leetcode-Sol/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
