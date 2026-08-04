@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/saimerit/Leetcode-Sol/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
@@ -258,9 +259,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
