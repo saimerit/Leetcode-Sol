@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
