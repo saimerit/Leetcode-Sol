@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/saimerit/Leetcode-Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/saimerit/Leetcode-Sol/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/saimerit/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
+| [0289-game-of-life](https://github.com/saimerit/Leetcode-Sol/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Dynamic Programming
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/saimerit/Leetcode-Sol/tree/main/0054-spiral-matrix/) | Medium |
+| [0289-game-of-life](https://github.com/saimerit/Leetcode-Sol/tree/main/0289-game-of-life/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
