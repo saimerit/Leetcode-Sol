@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/saimerit/Leetcode-Sol/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0210-course-schedule-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/saimerit/Leetcode-Sol/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/saimerit/Leetcode-Sol/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0210-course-schedule-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/saimerit/Leetcode-Sol/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/saimerit/Leetcode-Sol/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/saimerit/Leetcode-Sol/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/saimerit/Leetcode-Sol/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -307,4 +310,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
