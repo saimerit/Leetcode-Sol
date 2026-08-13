@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/saimerit/Leetcode-Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/saimerit/Leetcode-Sol/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimerit/Leetcode-Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0133-clone-graph](https://github.com/saimerit/Leetcode-Sol/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saimerit/Leetcode-Sol/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -307,12 +309,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
