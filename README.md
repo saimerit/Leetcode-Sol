@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
