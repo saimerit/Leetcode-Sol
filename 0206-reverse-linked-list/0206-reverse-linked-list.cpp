@@ -14,15 +14,12 @@ public:
         if (head == NULL) return nullptr;
         ListNode* head1 = NULL;
         ListNode* temp = head;
-        while(temp->next != NULL){
+        while(temp != NULL){
             ListNode* t = new ListNode(temp->val);
             t->next = head1;
             head1 = t;
             temp = temp->next;
         }
-        ListNode* t = new ListNode(temp->val);
-        t->next = head1;
-        head1 = t;
         return head1;
     }
 };
