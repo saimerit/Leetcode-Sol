@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/saimerit/Leetcode-Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/saimerit/Leetcode-Sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/saimerit/Leetcode-Sol/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
