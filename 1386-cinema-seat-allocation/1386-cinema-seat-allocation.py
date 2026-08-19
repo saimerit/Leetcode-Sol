@@ -1,0 +1,16 @@
+class Solution:
+    def maxNumberOfFamilies(self, n: int, reservedSeats: List[List[int]]) -> int:
+        res = 0
+        mp = defaultdict(list)
+        for r, c in reservedSeats:
+            mp[r-1].append(c-1)
+        seenr = 0
+        for k in mp:
+            seenr+=1
+            v1 = all(not j in mp[k] for j in range(1, 5))
+            v2 = all(not j in mp[k] for j in range(3, 7))
+            v3 = all(not j in mp[k] for j in range(5, 9))
+            res += max(v2, v1 + v3)
+        
+        return res + (n - seenr) * 2
+        
