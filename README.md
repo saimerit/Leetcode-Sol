@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/saimerit/Leetcode-Sol/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/saimerit/Leetcode-Sol/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saimerit/Leetcode-Sol/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0290-word-pattern](https://github.com/saimerit/Leetcode-Sol/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/saimerit/Leetcode-Sol/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saimerit/Leetcode-Sol/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/saimerit/Leetcode-Sol/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
+| [0290-word-pattern](https://github.com/saimerit/Leetcode-Sol/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/saimerit/Leetcode-Sol/tree/main/0383-ransom-note/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saimerit/Leetcode-Sol/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
