@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/saimerit/Leetcode-Sol/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saimerit/Leetcode-Sol/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saimerit/Leetcode-Sol/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Divide and Conquer
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/saimerit/Leetcode-Sol/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/saimerit/Leetcode-Sol/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -296,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/saimerit/Leetcode-Sol/tree/main/1927-sum-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -327,12 +332,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
