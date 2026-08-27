@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/saimerit/Leetcode-Sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/saimerit/Leetcode-Sol/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/saimerit/Leetcode-Sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0024-swap-nodes-in-pairs/) | Medium |
