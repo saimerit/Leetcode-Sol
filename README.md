@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saimerit/Leetcode-Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
