@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/saimerit/Leetcode-Sol/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 ## Floyd's Cycle Finding Algorithm
