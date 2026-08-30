@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/saimerit/Leetcode-Sol/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saimerit/Leetcode-Sol/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimerit/Leetcode-Sol/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/saimerit/Leetcode-Sol/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/saimerit/Leetcode-Sol/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Topological Sort
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Greedy
@@ -490,4 +493,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/saimerit/Leetcode-Sol/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
