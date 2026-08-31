@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saimerit/Leetcode-Sol/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saimerit/Leetcode-Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Hash Table
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/saimerit/Leetcode-Sol/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saimerit/Leetcode-Sol/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/saimerit/Leetcode-Sol/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,4 +524,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
