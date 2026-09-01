@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saimerit/Leetcode-Sol/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saimerit/Leetcode-Sol/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saimerit/Leetcode-Sol/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/3731-find-missing-elements/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saimerit/Leetcode-Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saimerit/Leetcode-Sol/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saimerit/Leetcode-Sol/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/3731-find-missing-elements/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimerit/Leetcode-Sol/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/saimerit/Leetcode-Sol/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saimerit/Leetcode-Sol/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
