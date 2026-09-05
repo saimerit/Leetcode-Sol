@@ -27,7 +27,6 @@ public:
             par[i] = i;
         }
         int ex = 0;
-        vector<vector<int>> adj(n);
         for(auto const& e : connections){
             int u = e[0];
             int v = e[1];
