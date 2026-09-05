@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3875-construct-uniform-parity-array-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/saimerit/Leetcode-Sol/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
