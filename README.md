@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/saimerit/Leetcode-Sol/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/saimerit/Leetcode-Sol/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimerit/Leetcode-Sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/saimerit/Leetcode-Sol/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/saimerit/Leetcode-Sol/tree/main/0062-unique-paths/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
