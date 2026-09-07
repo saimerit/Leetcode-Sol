@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0997-find-the-town-judge](https://github.com/saimerit/Leetcode-Sol/tree/main/0997-find-the-town-judge/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/saimerit/Leetcode-Sol/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/saimerit/Leetcode-Sol/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimerit/Leetcode-Sol/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saimerit/Leetcode-Sol/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
