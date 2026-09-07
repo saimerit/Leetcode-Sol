@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/saimerit/Leetcode-Sol/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/saimerit/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimerit/Leetcode-Sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/saimerit/Leetcode-Sol/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/saimerit/Leetcode-Sol/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
@@ -617,9 +620,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
