@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/saimerit/Leetcode-Sol/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/saimerit/Leetcode-Sol/tree/main/0054-spiral-matrix/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/saimerit/Leetcode-Sol/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0063-unique-paths-ii/) | Medium |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saimerit/Leetcode-Sol/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
