@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimerit/Leetcode-Sol/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/saimerit/Leetcode-Sol/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/saimerit/Leetcode-Sol/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimerit/Leetcode-Sol/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/saimerit/Leetcode-Sol/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/saimerit/Leetcode-Sol/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimerit/Leetcode-Sol/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0997-find-the-town-judge](https://github.com/saimerit/Leetcode-Sol/tree/main/0997-find-the-town-judge/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/saimerit/Leetcode-Sol/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/saimerit/Leetcode-Sol/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/saimerit/Leetcode-Sol/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/saimerit/Leetcode-Sol/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Database
@@ -669,4 +673,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1668-maximum-repeating-substring](https://github.com/saimerit/Leetcode-Sol/tree/main/1668-maximum-repeating-substring/) | Easy |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
