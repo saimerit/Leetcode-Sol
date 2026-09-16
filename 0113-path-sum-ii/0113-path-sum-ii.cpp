@@ -11,10 +11,11 @@
  */
 class Solution {
 public:
-    void f(TreeNode* root, int tsum, vector<vector<int>>& ans, vector<int> path, int s){
+    void f(TreeNode* root, int tsum, vector<vector<int>>& ans, vector<int>& path, int s){
         if(!root->left && !root->right && (s + root->val == tsum)){
             path.push_back(root->val);
             ans.push_back(path);
+            path.pop_back();
             return;
         }
         path.push_back(root->val);
@@ -24,6 +25,7 @@ public:
         if(root->right){
             f(root->right, tsum, ans, path, s+root->val);
         }
+        path.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         if(!root) return {};
