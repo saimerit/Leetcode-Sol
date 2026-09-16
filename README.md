@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/saimerit/Leetcode-Sol/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -575,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -596,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
