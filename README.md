@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -694,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0126-word-ladder-ii/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/saimerit/Leetcode-Sol/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
