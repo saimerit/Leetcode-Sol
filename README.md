@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/saimerit/Leetcode-Sol/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0685-redundant-connection-ii/) | Hard |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0429-n-ary-tree-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/saimerit/Leetcode-Sol/tree/main/0684-redundant-connection/) | Medium |
 | [0685-redundant-connection-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0685-redundant-connection-ii/) | Hard |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0429-n-ary-tree-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saimerit/Leetcode-Sol/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
@@ -612,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/saimerit/Leetcode-Sol/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/saimerit/Leetcode-Sol/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Enumeration
