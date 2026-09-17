@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/saimerit/Leetcode-Sol/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/saimerit/Leetcode-Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/saimerit/Leetcode-Sol/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/saimerit/Leetcode-Sol/tree/main/0199-binary-tree-right-side-view/) | Medium |
