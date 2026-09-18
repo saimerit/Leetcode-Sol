@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saimerit/Leetcode-Sol/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saimerit/Leetcode-Sol/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saimerit/Leetcode-Sol/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/saimerit/Leetcode-Sol/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1927-sum-game](https://github.com/saimerit/Leetcode-Sol/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saimerit/Leetcode-Sol/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/saimerit/Leetcode-Sol/tree/main/0997-find-the-town-judge/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saimerit/Leetcode-Sol/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saimerit/Leetcode-Sol/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saimerit/Leetcode-Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saimerit/Leetcode-Sol/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saimerit/Leetcode-Sol/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/saimerit/Leetcode-Sol/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/saimerit/Leetcode-Sol/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saimerit/Leetcode-Sol/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
