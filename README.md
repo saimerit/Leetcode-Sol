@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/saimerit/Leetcode-Sol/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/saimerit/Leetcode-Sol/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/saimerit/Leetcode-Sol/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -630,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/saimerit/Leetcode-Sol/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/saimerit/Leetcode-Sol/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0655-print-binary-tree/) | Medium |
@@ -795,4 +798,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
