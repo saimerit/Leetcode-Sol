@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saimerit/Leetcode-Sol/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saimerit/Leetcode-Sol/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saimerit/Leetcode-Sol/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2498-frog-jump-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/2498-frog-jump-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saimerit/Leetcode-Sol/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saimerit/Leetcode-Sol/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saimerit/Leetcode-Sol/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/saimerit/Leetcode-Sol/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saimerit/Leetcode-Sol/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saimerit/Leetcode-Sol/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -835,4 +838,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saimerit/Leetcode-Sol/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
