@@ -811,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/saimerit/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0052-n-queens-ii/) | Hard |
 | [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0126-word-ladder-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -913,4 +914,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/saimerit/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
