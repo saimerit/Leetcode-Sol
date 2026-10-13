@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/saimerit/Leetcode-Sol/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/saimerit/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/saimerit/Leetcode-Sol/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0063-unique-paths-ii/) | Medium |
@@ -809,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/saimerit/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0126-word-ladder-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -907,4 +909,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saimerit/Leetcode-Sol/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/saimerit/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
