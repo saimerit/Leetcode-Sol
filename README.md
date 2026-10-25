@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/saimerit/Leetcode-Sol/tree/main/0997-find-the-town-judge/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/saimerit/Leetcode-Sol/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/saimerit/Leetcode-Sol/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saimerit/Leetcode-Sol/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/saimerit/Leetcode-Sol/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/saimerit/Leetcode-Sol/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/saimerit/Leetcode-Sol/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/saimerit/Leetcode-Sol/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/saimerit/Leetcode-Sol/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/saimerit/Leetcode-Sol/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -469,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0685-redundant-connection-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0685-redundant-connection-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/saimerit/Leetcode-Sol/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/saimerit/Leetcode-Sol/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
