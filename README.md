@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saimerit/Leetcode-Sol/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/saimerit/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0518-coin-change-ii/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saimerit/Leetcode-Sol/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/saimerit/Leetcode-Sol/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/saimerit/Leetcode-Sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/saimerit/Leetcode-Sol/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
