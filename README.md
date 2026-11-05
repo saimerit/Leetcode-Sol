@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saimerit/Leetcode-Sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -135,12 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/saimerit/Leetcode-Sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saimerit/Leetcode-Sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saimerit/Leetcode-Sol/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimerit/Leetcode-Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saimerit/Leetcode-Sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/saimerit/Leetcode-Sol/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saimerit/Leetcode-Sol/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saimerit/Leetcode-Sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saimerit/Leetcode-Sol/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saimerit/Leetcode-Sol/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
