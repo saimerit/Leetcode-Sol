@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/saimerit/Leetcode-Sol/tree/main/0482-license-key-formatting/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/saimerit/Leetcode-Sol/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
+| [0831-masking-personal-information](https://github.com/saimerit/Leetcode-Sol/tree/main/0831-masking-personal-information/) | Medium |
 | [0856-score-of-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saimerit/Leetcode-Sol/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0940-distinct-subsequences-ii/) | Hard |
