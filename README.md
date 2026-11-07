@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimerit/Leetcode-Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/saimerit/Leetcode-Sol/tree/main/0049-group-anagrams/) | Medium |
