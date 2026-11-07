@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/saimerit/Leetcode-Sol/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/saimerit/Leetcode-Sol/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/saimerit/Leetcode-Sol/tree/main/0482-license-key-formatting/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/saimerit/Leetcode-Sol/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/saimerit/Leetcode-Sol/tree/main/0721-accounts-merge/) | Medium |
@@ -929,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/saimerit/Leetcode-Sol/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/saimerit/Leetcode-Sol/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
@@ -1003,4 +1005,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/saimerit/Leetcode-Sol/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/saimerit/Leetcode-Sol/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
