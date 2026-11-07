@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/saimerit/Leetcode-Sol/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimerit/Leetcode-Sol/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/saimerit/Leetcode-Sol/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/saimerit/Leetcode-Sol/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0126-word-ladder-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0126-word-ladder-ii/) | Hard |
