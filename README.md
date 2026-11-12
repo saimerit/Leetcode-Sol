@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/saimerit/Leetcode-Sol/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/saimerit/Leetcode-Sol/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saimerit/Leetcode-Sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/saimerit/Leetcode-Sol/tree/main/0704-binary-search/) | Easy |
