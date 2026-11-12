@@ -8,14 +8,14 @@ public:
         for(int i = 1; i < n; i++){
             if(nums[i] > nums[i-1]){
                 inc++;
-                ans = max(ans, inc);
             }else{
+                ans = max(ans, inc);
                 inc = 1;
             }
             if(nums[i] < nums[i-1]){
                 dec++;
-                ans = max(ans, dec);
             }else{
+                ans = max(ans, dec);
                 dec = 1;
             }
         }   
