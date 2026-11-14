@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saimerit/Leetcode-Sol/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saimerit/Leetcode-Sol/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -595,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1664-ways-to-make-a-fair-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saimerit/Leetcode-Sol/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/saimerit/Leetcode-Sol/tree/main/1872-stone-game-viii/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
@@ -880,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saimerit/Leetcode-Sol/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saimerit/Leetcode-Sol/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saimerit/Leetcode-Sol/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/saimerit/Leetcode-Sol/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
