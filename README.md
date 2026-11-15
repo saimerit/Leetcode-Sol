@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/saimerit/Leetcode-Sol/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/saimerit/Leetcode-Sol/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/saimerit/Leetcode-Sol/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/saimerit/Leetcode-Sol/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saimerit/Leetcode-Sol/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/saimerit/Leetcode-Sol/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/saimerit/Leetcode-Sol/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saimerit/Leetcode-Sol/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saimerit/Leetcode-Sol/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -617,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/saimerit/Leetcode-Sol/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/saimerit/Leetcode-Sol/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saimerit/Leetcode-Sol/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
