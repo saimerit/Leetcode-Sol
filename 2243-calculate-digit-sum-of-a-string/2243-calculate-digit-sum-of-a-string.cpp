@@ -4,8 +4,9 @@ public:
         int n = s.length();
         if(n <= k) return s;
         string kl = "";
+        int temp = 0;
         for(int i = 0; i < n;){
-            int temp = 0;
+            temp = 0;
             for(int j = 0; j < k && i < n; j++, i++){
                 temp += (s[i] - '0');
             }
