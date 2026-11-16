@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0221-maximal-square](https://github.com/saimerit/Leetcode-Sol/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/saimerit/Leetcode-Sol/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0283-move-zeroes/) | Easy |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/saimerit/Leetcode-Sol/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/saimerit/Leetcode-Sol/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/saimerit/Leetcode-Sol/tree/main/0221-maximal-square/) | Medium |
 | [0289-game-of-life](https://github.com/saimerit/Leetcode-Sol/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0835-image-overlap](https://github.com/saimerit/Leetcode-Sol/tree/main/0835-image-overlap/) | Medium |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/saimerit/Leetcode-Sol/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/saimerit/Leetcode-Sol/tree/main/0221-maximal-square/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saimerit/Leetcode-Sol/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/saimerit/Leetcode-Sol/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/saimerit/Leetcode-Sol/tree/main/0392-is-subsequence/) | Easy |
