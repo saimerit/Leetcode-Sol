@@ -1,7 +1,6 @@
 class ProductOfNumbers {
 public:
     vector<int> st;
-    int i = -1;
     int n;
     ProductOfNumbers() {
         n = 0;
@@ -10,7 +9,6 @@ public:
     void add(int num) {
         st.push_back(num);
         n++;
-        i++;
     }
     
     int getProduct(int k) {
