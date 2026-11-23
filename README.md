@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/saimerit/Leetcode-Sol/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/saimerit/Leetcode-Sol/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1306-jump-game-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saimerit/Leetcode-Sol/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saimerit/Leetcode-Sol/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/saimerit/Leetcode-Sol/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/saimerit/Leetcode-Sol/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/saimerit/Leetcode-Sol/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saimerit/Leetcode-Sol/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/saimerit/Leetcode-Sol/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/saimerit/Leetcode-Sol/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/saimerit/Leetcode-Sol/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/saimerit/Leetcode-Sol/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/saimerit/Leetcode-Sol/tree/main/1510-stone-game-iv/) | Hard |
@@ -695,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/saimerit/Leetcode-Sol/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/saimerit/Leetcode-Sol/tree/main/0622-design-circular-queue/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1123,4 +1127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
