@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-sum-of-sortable-integers](https://github.com/saimerit/Leetcode-Sol/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/saimerit/Leetcode-Sol/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/saimerit/Leetcode-Sol/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-frog-jump-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/2498-frog-jump-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saimerit/Leetcode-Sol/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saimerit/Leetcode-Sol/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/saimerit/Leetcode-Sol/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saimerit/Leetcode-Sol/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/saimerit/Leetcode-Sol/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1141,4 +1144,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/saimerit/Leetcode-Sol/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
