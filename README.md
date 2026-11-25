@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/saimerit/Leetcode-Sol/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/saimerit/Leetcode-Sol/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/saimerit/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/saimerit/Leetcode-Sol/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/saimerit/Leetcode-Sol/tree/main/0056-merge-intervals/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/saimerit/Leetcode-Sol/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/saimerit/Leetcode-Sol/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/saimerit/Leetcode-Sol/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/saimerit/Leetcode-Sol/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/saimerit/Leetcode-Sol/tree/main/0063-unique-paths-ii/) | Medium |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/saimerit/Leetcode-Sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/saimerit/Leetcode-Sol/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/saimerit/Leetcode-Sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saimerit/Leetcode-Sol/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
