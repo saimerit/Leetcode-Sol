@@ -1,24 +1,22 @@
 class Solution {
 public:
     int deleteAndEarn(vector<int>& nums) {
+        unordered_map<int, int> mp;
         int n = nums.size();
-        int maxVal = 0;
-        for(int i = 0; i < n; i++){
-            if(nums[i] > maxVal) maxVal = nums[i];
+        int mx = 0;
+        for(int &l : nums){
+            mp[l]++;
+            mx = max(mx, l);
         }
-
-        vector<int> p(maxVal+1, 0);
-        for(int num : nums){
-            p[num] += num;
+        vector<int> points(mx+1, 0);
+        for(int i = 1; i <= mx; i++){
+            points[i] = i * mp[i];
         }
-
-        int prev1 = 0;
-        int prev2 = 0;
-        for(int i = 1; i <= maxVal; i++){
-            int curr = max(prev1, prev2 + p[i]);
-            prev2 = prev1;
-            prev1 = curr;
+        vector<int> dp(mx+1, 0);
+        dp[1] = points[1];
+        for(int i = 2; i <= mx; i++){
+            dp[i] = max(dp[i-1], points[i] + dp[i-2]);
         }
-        return prev1;
+        return dp[mx];
     }
 };
